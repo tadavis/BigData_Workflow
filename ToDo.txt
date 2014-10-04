@@ -1,0 +1,9 @@
+To do:
+1. Figure out how to write the memory-mapped ff file into my project workspace with a 
+sensible name.
+2. Figure out how to use the pre-written ff file in an analysis, without having to 
+   reread from the PostgreSQL database and recreate the file.
+3. It looks like I can use either biglm (from biglm) or bigglm.ffdf(from ffbase) to 
+   regress on an ffdf object.  Should find out if I got lucky, or if this is always
+   the case.
+4. How do I do the regression analysis across multiple cores with an ffdf object?
