@@ -2,6 +2,7 @@
 # may take place with biglm, in the sense that the ffdf data may be converted to a 
 # conventional data frame.  This we don't want.  We want the data handled via chunks.
 #
+# Added another comment to check out whether git works from within Emacs.
 require(biglm)
 Sys.time() -> start
 model = bigglm.ffdf(Y ~ X1 + X2 + X3, fromPostgres_ff)
