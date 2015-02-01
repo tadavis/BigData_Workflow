@@ -7,3 +7,5 @@ sensible name.
    regress on an ffdf object.  Should find out if I got lucky, or if this is always
    the case.
 4. How do I do the regression analysis across multiple cores with an ffdf object?
+
+5. Do this on-database?
