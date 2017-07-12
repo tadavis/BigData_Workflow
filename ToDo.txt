@@ -9,3 +9,5 @@ sensible name.
 4. How do I do the regression analysis across multiple cores with an ffdf object?
 
 5. Do this on-database?
+
+6. Add Monetdb to the mix.

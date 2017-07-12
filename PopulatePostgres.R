@@ -1,3 +1,4 @@
+# Revisit this using better practices
 require(RpostgreSQL)
 drv = dbDriver("PostgreSQL")
 con = dbConnect(drv,dbname="test_with_r",host="localhost",user="TAD",password="1234")
