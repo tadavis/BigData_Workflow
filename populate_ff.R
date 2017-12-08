@@ -11,3 +11,5 @@ fromPostgres_ff = read.dbi.ffdf(query=query,dbConnect.args=list(drv=drv,
                                               password="1234"),
                                 VERBOSE=TRUE)
 #save.ffdf(fromPostgres_ff) 
+
+# just add a simple comment
