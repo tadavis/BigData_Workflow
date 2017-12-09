@@ -13,3 +13,5 @@ fromPostgres_ff = read.dbi.ffdf(query=query,dbConnect.args=list(drv=drv,
 #save.ffdf(fromPostgres_ff) 
 
 # just add a simple comment
+# just add another simple comment on 12/09/2017
+
